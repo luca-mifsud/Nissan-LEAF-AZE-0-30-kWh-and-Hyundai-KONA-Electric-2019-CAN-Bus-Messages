@@ -5,3 +5,5 @@ The aim of the study was to analyse the regenerative braking strategy, and other
 
 A substantial part of the EV CAN message information was obtained from Mr. Daniel Öster (dalathegreat), to whom I am extremely grateful for his contribution to the advancement of EVs and the EV community.
 The rest of the CAN bus messages were obtained and calibrated manually using a CAN sniffer and diagnostic tool to send messages.
+
+Should you come across any errors or things that would merit adding, please do contact me and let me know.
